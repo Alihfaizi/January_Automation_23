@@ -2,11 +2,7 @@ package Day14_04092023;
 
 import Reusable_Package.ReusableAnnotations;
 import Reusable_Package.ReusableMethod_Logger;
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 public class T2_GoogleSearchLogger_WithOut extends ReusableAnnotations {

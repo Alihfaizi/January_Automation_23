@@ -59,6 +59,7 @@ public class T3_HandlingTabs {
 
         Thread.sleep(2000);
         driver.findElement(By.xpath("//*[@id='Form']")).click();
+        //driver.getTitle
 
     }//end of main
 }//end of class

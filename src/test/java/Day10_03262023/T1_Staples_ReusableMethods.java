@@ -3,8 +3,6 @@ package Day10_03262023;
 import Reusable_Package.ReusableMethod;
 import org.openqa.selenium.WebDriver;
 
-import java.util.ResourceBundle;
-
 public class T1_Staples_ReusableMethods {
     public static void main(String[] args) throws InterruptedException {
 

@@ -6,7 +6,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
-import java.util.PriorityQueue;
 
 public class T1_ReusableAnnotation_Yahoo extends ReusableAnnotations {
 

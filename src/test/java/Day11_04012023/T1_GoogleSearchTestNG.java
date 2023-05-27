@@ -6,9 +6,6 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
-
 public class T1_GoogleSearchTestNG {
     //to make variable global, you must declare it outside of the automation methods
     WebDriver driver;

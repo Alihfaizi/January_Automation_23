@@ -2,7 +2,6 @@ package Action_Items;
 
 import Reusable_Package.ReusableAnnotations;
 import Reusable_Package.ReusableMethod;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class Action_Item_6 extends ReusableAnnotations {

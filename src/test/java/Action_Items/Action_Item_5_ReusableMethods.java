@@ -2,9 +2,6 @@ package Action_Items;
 
 import Reusable_Package.ReusableMethod;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.ResourceBundle;
 
 public class Action_Item_5_ReusableMethods {
     public static void main(String[] args) throws InterruptedException {

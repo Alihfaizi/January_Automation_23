@@ -1,10 +1,8 @@
 package Day13_04082023;
 
 import Reusable_Package.ReusableAnnotations;
-import Reusable_Package.ReusableMethod;
 import Reusable_Package.ReusableMethod_Logger;
 import com.relevantcodes.extentreports.LogStatus;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class T2_Staples_ReusableMethods_Logger extends ReusableAnnotations {

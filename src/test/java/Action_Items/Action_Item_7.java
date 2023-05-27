@@ -1,20 +1,9 @@
 package Action_Items;
 
 import Reusable_Package.ReusableAnnotations;
-import Reusable_Package.ReusableMethod;
 import Reusable_Package.ReusableMethod_Logger;
 import com.relevantcodes.extentreports.LogStatus;
-import jdk.jfr.Threshold;
-import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
-
-import javax.swing.plaf.TableHeaderUI;
-import java.net.http.WebSocket;
-import java.sql.SQLOutput;
-import java.util.ArrayList;
 
 public class Action_Item_7 extends ReusableAnnotations{
     //1st test case

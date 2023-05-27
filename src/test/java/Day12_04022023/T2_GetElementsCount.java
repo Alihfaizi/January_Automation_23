@@ -2,13 +2,11 @@ package Day12_04022023;
 
 import Reusable_Package.ReusableAnnotations;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class T2_GetElementsCount extends ReusableAnnotations {
